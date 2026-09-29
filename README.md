@@ -42,10 +42,6 @@ Become the smoothie bar benchmark in Chicago — known for craft, accessibility,
 
 # Why Choose Remax Pt?
 
-### Built to return
-
-Consistency matters more than one flashy launch.
-
 ### Local roots
 
 Based in Chicago with a team you can meet in person.
@@ -57,6 +53,10 @@ We invest in the work behind the counter, not filler marketing.
 ### Built to return
 
 Consistency matters more than one flashy launch.
+
+### Local roots
+
+Based in Chicago with a team you can meet in person.
 
 ---
 
